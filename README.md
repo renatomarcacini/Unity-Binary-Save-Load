@@ -1,6 +1,6 @@
 # Unity Binary Save Load
- Unity save system with binary formatter
- <img src="./pipeline_binary_save.jpg" style="display:block;   margin-left: auto; margin-right: auto; width: 50%;"/>
+ Unity save system with binary formatter <br>
+ <img src="./pipeline_binary_save.jpg" style="display:block;   margin-left: auto; margin-right: auto;"/> <br>
 
 # Example Of Use
 
