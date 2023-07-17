@@ -1,9 +1,16 @@
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+</style>
+
 # Unity Binary Save Load
  Unity save system with binary formatter
-<hr>
- <img src="./pipeline_binary_save.jpg"/>
-<hr>
-
+ <img src="./pipeline_binary_save.png" class="center"/>
+ 
 # Example Of Use
 
 ## 1. Create a game model
