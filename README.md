@@ -65,7 +65,7 @@ public class GameHandler : MonoBehaviour
 }
 ```
 # Save Vectors and Quaternions
-Binary Save cannot save Vector and Quaternions type data. For this, we have to use methods that convert to the Vector and Rotation structs of the BinarySave class.
+Binary Save cannot save Vector3 and Quaternions type data. For this, we have to use methods that convert to the Vector and Rotation structs of the BinarySave class.
 
 ```c#
 [System.Serializable]
